@@ -1,6 +1,6 @@
 # AkioCharacters Platform
 
-![AkioCharacters Platform](https://private-us-east-1.manuscdn.com/sessionFile/3fMUPf9PAiJ4v7wgFlO8zX/sandbox/wPIVBHwDSdAmFMfXzwWjfk-images_1752556467805_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9pbWFnZXMvY2hhcmFjdGVyX2FpX3BsYXRmb3Jt.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvM2ZNVVBmOVBBaUo0djd3Z0ZsTzh6WC9zYW5kYm94L3dQSVZCSHdEU2RBbUZNZlh6d1dqZmstaW1hZ2VzXzE3NTI1NTY0Njc4MDVfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5cGJXRm5aWE12WTJoaGNtRmpkR1Z5WDJGcFgzQnNZWFJtYjNKdC5qcGciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=IXiSZSnrmm0GIN0eMVBzDYWOKnP0bPKkE0AGxc7hrq8iOGOMcfMcUqfFeZ2iWVLNLcBBv7~dYLd1diV4kB26mi-GvCVaM~Q4SoCgbQJIuUFqVklmCGwlGnNIKKuMTaEX-rtjjksMBqIkN-rr~HDwwrRSO8bC2HWSDpmTEu4bc2cgzPwpQ7CKjonehC1zcsOjlMpi0VqTwjDXdeiJN3QR7p7RkqL~H825jcVMladklmWLPAh81a1NA8MPupbO450B-aKhdEltWEpzNAoR~NCv6ezpTHBQI6HUd2V1Y~4Isof-F-24tO~mX0AwsU-6Xb6lsOr~TcfPIyjb22imPk9hfQ__)
+![AkioCharacters Platform](https://edgabot.lucnodes.es/AkiomaeCodes/AkioCharacters/main.png)
 
 ¡Bienvenido al repositorio de AkioCharacters Platform! Este proyecto representa una plataforma innovadora donde los usuarios podían interactuar con personajes de IA únicos, cada uno con su propia personalidad, cualidades, avatar y voz personalizada. Inspirado en plataformas como Character.ai, AkioCharacters permitía a la comunidad explorar y chatear tanto con sus propios personajes como con los creados por otros usuarios.
 
@@ -14,7 +14,7 @@ AkioCharacters Platform fue diseñado con las siguientes funcionalidades clave:
 
 *   **Autenticación con Discord:** Los usuarios podían iniciar sesión de forma segura y sencilla utilizando sus cuentas de Discord. Esto facilitaba el acceso y la gestión de perfiles de usuario.
 
-    ![Discord Login](https://private-us-east-1.manuscdn.com/sessionFile/3fMUPf9PAiJ4v7wgFlO8zX/sandbox/wPIVBHwDSdAmFMfXzwWjfk-images_1752556467806_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9pbWFnZXMvZGlzY29yZF9sb2dpbg.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvM2ZNVVBmOVBBaUo0djd3Z0ZsTzh6WC9zYW5kYm94L3dQSVZCSHdEU2RBbUZNZlh6d1dqZmstaW1hZ2VzXzE3NTI1NTY0Njc4MDZfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5cGJXRm5aWE12WkdselkyOXlaRjlzYjJkcGJnLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=OFc18xxgtFHFqA~NXEolQ6Yt0jZGl6JqgaANJO4o4q7fGcHvEJ4qxq-40PzhM0oZAbtUJhtvmoF5i2q26f7xysAXBzCzjG4mGHG2fiEN1JemH0WmlbGWBt60WGC4xGfsHfzZJy3nbJKLDaoAg0c4DzfeHljiKoZiOc6dF8U9n32aXHLcbV1qk28dv8PZ0bsSpx3UOyV5EneHeLHKeMwK1vVuea2Z1A1qPVdfPZWUeahe7qSY3l2TrRG6GNGPBtpWJxDYq4hGdDoO6zisdGQbfoZvoB-IuA3r1S4I0kwz729w-Va0l41sSN6ETMzwQlvuBYUXSzL4kJZGdTZbJrGULw__)
+    ![Discord Login](https://edgabot.lucnodes.es/AkiomaeCodes/AkioCharacters/login.png)
 
 *   **Creación de Personajes de IA:** Cada usuario tenía la capacidad de crear hasta dos personajes de IA únicos. La personalización incluía:
     *   **Nombre y Descripción:** Información básica para identificar al personaje.
@@ -24,7 +24,7 @@ AkioCharacters Platform fue diseñado con las siguientes funcionalidades clave:
 
 *   **Interacción Conversacional:** Una interfaz de chat intuitiva permitía a los usuarios conversar con los personajes de IA, simulando una experiencia de conversación natural.
 
-    ![AI Chat Interface](https://private-us-east-1.manuscdn.com/sessionFile/3fMUPf9PAiJ4v7wgFlO8zX/sandbox/wPIVBHwDSdAmFMfXzwWjfk-images_1752556467806_na1fn_L2hvbWUvdWJ1bnR1L3VwbG9hZC9pbWFnZXMvY2hhdF9pbnRlcmZhY2U.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvM2ZNVVBmOVBBaUo0djd3Z0ZsTzh6WC9zYW5kYm94L3dQSVZCSHdEU2RBbUZNZlh6d1dqZmstaW1hZ2VzXzE3NTI1NTY0Njc4MDZfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzVndiRzloWkM5cGJXRm5aWE12WTJoaGRGOXBiblJsY21aaFkyVS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=MQY56~UOCV2-hXhuteqLu1n5W0NAE4pptbfrq1Jmucuir0PcoySP3BUKQv~xHlrZ2gdDhEPYTst-t7m-d5sOLi5t3vPibG-HbH2eB8bAOxhp~lRvukIScLEngkKvpOaC5jyn26h9dnif75C3uP6GEgff~tMvdjaj-MWg-HSnWf6DAwuZb3jONf3ULwOnWRPP7ZSfnGa~yodlXi4Vx3Ll3kPiT~7Os5aIEZb1aCBEb9Cfg4cFpELEOORuiRyyBnlT5v8hXWbh9XcRNuXJGG0Jt4IEH7u83rrkMpIomllDoxrO7dSLGmO8836h07Mpik-vtFAutBNp6bH-r9sTsCeF5Q__)
+    ![AI Chat Interface](https://edgabot.lucnodes.es/AkiomaeCodes/AkioCharacters/chat.png)
 
 *   **Exploración de la Comunidad:** Los usuarios podían descubrir y chatear con personajes creados por otros miembros de la comunidad, fomentando la interacción y el intercambio.
 
@@ -379,7 +379,7 @@ Estas definiciones controlan el comportamiento general de la aplicación:
 1.  **Servidor Web:** Asegúrate de tener un servidor web (como Apache o Nginx) con PHP instalado (versión 7.4 o superior recomendada).
 2.  **Clonar el Repositorio:** Clona este repositorio en tu servidor web.
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone <https://github.com/Edgajuman/AkioCharacters/>
     cd AkioCharacters
     ```
 3.  **Configurar `config.php`:** Edita el archivo `config.php` con tus credenciales de Discord y Gemini AI, y ajusta las rutas si es necesario.
