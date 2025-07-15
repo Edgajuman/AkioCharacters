@@ -62,10 +62,6 @@ El proyecto AkioCharacters está organizado de la siguiente manera:
 │   └── users.json
 ├── logs/
 │   └── error_YYYY-MM-DD.log
-├── images/
-│   ├── character_ai_platform.jpg
-│   ├── discord_login.png
-│   └── chat_interface.png
 ├── config.php
 ├── debug.php
 └── index.php
@@ -76,7 +72,6 @@ El proyecto AkioCharacters está organizado de la siguiente manera:
 *   **`auth/`**: Incluye los scripts relacionados con la autenticación de usuarios, especialmente la integración con Discord OAuth.
 *   **`data/`**: Directorio para almacenar los datos de la aplicación en formato JSON (personajes y usuarios).
 *   **`logs/`**: Guarda los archivos de registro de errores de la aplicación.
-*   **`images/`**: Contiene las imágenes utilizadas en este README para una mejor visualización.
 *   **`config.php`**: El archivo de configuración principal donde se definen las variables esenciales para el funcionamiento de la aplicación.
 *   **`debug.php`**: Un script auxiliar para propósitos de depuración.
 *   **`index.php`**: El punto de entrada principal de la aplicación web.
